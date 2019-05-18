@@ -8,7 +8,7 @@ namespace SolidPrinciples.DIP
         static void Main(string[] args)
         {
             var customer = new Customer(new EmailLogger());
-            customer.Add(new Database());
+            customer.Add();
         }
     }
 }

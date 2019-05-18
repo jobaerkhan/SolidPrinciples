@@ -11,11 +11,11 @@ namespace SolidPrinciples.DIP.Violation
     {
         FileLogger logger = new FileLogger();
 
-        public void Add(Database db)
+        public void Add()
         {
             try
             {
-                db.Add();
+                // Add Customer
             }
             catch (Exception error)
             {

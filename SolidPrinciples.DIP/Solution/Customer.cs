@@ -18,11 +18,11 @@ namespace SolidPrinciples.DIP.Solution
             this.logger = logger;
         }
 
-        public void Add(Database db)
+        public void Add()
         {
             try
             {
-                db.Add();
+                // Add Customer
             }
             catch (Exception error)
             {
