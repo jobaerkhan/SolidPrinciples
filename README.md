@@ -1,6 +1,7 @@
-# SOLIDPrinciples
-Examples explaining the SOLID principles OOD (Object Oriented Design)
-*SOLID are five basic principles which help to create good software architecture*
+# SOLID Principles
+Examples of SOLID priciples violation and it's solution.
+
+**SOLID are five basic principles which help to create good software architecture**
 
 ### Exists 5 Design principles
 * S stands for SRP (Single responsibility principle)
